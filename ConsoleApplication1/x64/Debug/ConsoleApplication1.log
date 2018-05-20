@@ -1,3 +1,5 @@
 ﻿  Detection.cpp
-g:\face detection\consoleapplication1\consoleapplication1\detection.cpp(16): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+g:\face detection\consoleapplication1\consoleapplication1\detection.cpp(85): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+g:\face detection\consoleapplication1\consoleapplication1\detection.cpp(98): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+g:\face detection\consoleapplication1\consoleapplication1\detection.cpp(99): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
   ConsoleApplication1.vcxproj -> G:\face detection\ConsoleApplication1\x64\Debug\MyFaceDetection.exe
